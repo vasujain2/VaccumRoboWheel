@@ -27,6 +27,9 @@ This is a Simple Bluetooth controlled robowheel equipped with a vacuum cleaner w
 
 · JUMPER WIRES
 
+## SCHEMATICS
+
+![Schematics](circuit.jpg)
 
 ## Authors
 
